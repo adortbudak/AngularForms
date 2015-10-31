@@ -4,11 +4,11 @@
             employee: {
                 fullName: "Alper Dortbudak",
                 notes: "Some notes",
-                department: "OneKey",
+                department: "Engineering",
                 perkCar: true,
                 perkStock: true,
                 perkSixWeeks: true,
-                payrollType: "None"
+                payrollType: "none"
 
             }
         }
